@@ -1,7 +1,6 @@
 To detect fraud in financial transactions and develop models to predict the fraudulent transactions.
 
 Feature description :
-
 step - maps a unit of time in the real world. 
 
 In this case 1 step is 1 hour of time. Total steps 744 (30 days simulation). 
